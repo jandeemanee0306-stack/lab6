@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-//test
+
 double deg2rad(double deg){
     return deg * M_PI / 180.0;
 }
